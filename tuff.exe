@@ -1,0 +1,24 @@
+This is a simple test file.
+
+Execution:
+powershell
+cmd.exe
+wscript
+
+Network:
+http://example.com
+invoke-webrequest
+hiya downloadstring
+
+Obfuscation:
+base64
+encodedcommand
+
+Persistence:
+schtasks
+reg add run
+
+Notes:
+This file is only for testing a scanner.
+No code is executed.
+Nothing here is malicious.
